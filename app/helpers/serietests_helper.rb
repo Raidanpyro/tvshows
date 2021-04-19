@@ -1,0 +1,2 @@
+module SerietestsHelper
+end
